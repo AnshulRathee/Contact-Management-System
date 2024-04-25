@@ -24,3 +24,6 @@ The C++ Contact Management System is a console-based application designed to eff
 
 ## Contributing
 Contributions are welcome! Feel free to open issues to enhance the Contact Management System implemented in C++.
+
+## License
+This project is licensed under the GNU GPL License.
